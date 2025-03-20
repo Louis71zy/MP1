@@ -3,11 +3,11 @@ export * from './education'
 export * from './career'
 
 // personal info
-export const name = 'Derek Hu'
-export const headline = 'Teacher at Shanghai Soong Ching Ling School.'
+export const name = 'Louis'
+export const headline = 'A student studying in Inner Mogolia university'
 export const introduction =
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020."
-export const email = 'tong.hu@scls-sh.org'
+  "Hello,amigos. My name is Louis. I'm from Inner mogolia and a student who is always curious about new things and eager to achieve dreams and ethusiastic about future.Welcome to my page."
+export const email = 'nicelouis0711@gmail.com'
 export const githubUsername = 'derekhut'
 
 // about page
@@ -15,7 +15,7 @@ export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
 export const aboutParagraphs = [
   "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020.",
   'Currently I am working on a new course called AI Camp, an innovative course where high school students create real-world products and startups while exploring the frontiers of AI.',
-  "I started this blog to share the insights I learn every day. Most blogs focus on education in Artificial Intelligence and general computer science, while others share the life lessons I've learned.",
+  "I started this blog to share the insights I learn every day. Most blogs focus on the lastest infomation about programming and general computer science, recording my improvment in daily life while others share the life lessons I've learned.",
 ]
 
 // blog
