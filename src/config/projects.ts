@@ -39,28 +39,28 @@ export const projectIntro = "Academic research and technical projects I've worke
 
 export const projects: Array<ProjectItemType> = [
   {
-    name: 'Student Final Project Portfolio',
-    description: 'Static website portfolio',
-    link: { href: 'scls-cs.com', label: 'GitHub Cards' },
-    tags: ['Website', 'Next.js', 'TailwindCSS', 'DaisyUI', 'Portfolio']
+    name: '',
+    description: '',
+    link: { href: '', label: '' },
+    tags: ['']
   },
   {
-    name: 'Seeking DNA',
-    description: '2022 SCLS Hackathon',
-    link: { href: 'https://scls-cs.gitbook.io/scls-apcs-lab/lab5-dna', label: 'Hackathon' },
-    tags: ['Hackathon', 'Java']
+    name: '',
+    description: '',
+    link: { href: '', label: '' },
+    tags: ['', '']
   },
   {
-    name: 'Texas Holdem Poker Judge',
-    description: '2024 SCLS Hackathon',
-    link: { href: 'https://onecompiler.com/challenges/42yf4n5yn/scls-hackathon', label: 'Hackathon' },
-    tags: ['Hackathon']
+    name: '',
+    description: '',
+    link: { href: '', label: '' },
+    tags: ['']
   },
   {
-    name: 'AI Camp Course Development',
-    description: 'Developed a comprehensive AI curriculum for high school students, incorporating real-world projects and startup concepts.',
-    link: { href: 'https://scls-cs.gitbook.io/ai-camp', label: 'View Course' },
-    tags: ['Education', 'AI']
+    name: '',
+    description: '',
+    link: { href: '', label: '' },
+    tags: ['']
   },
 ]
 
@@ -70,26 +70,26 @@ export const activitiesIntro = "Personal interests and community contributions."
 
 export const activities: Array<ActivityItemType> = [
   {
-    name: 'Python Workshop',
+    name: 'practical skills',
     description:
-      'Teaching basic Python programming concepts to beginners. Covering variables, control flow, and functions.',
-    date: '2024-02-24',
-    location: 'Shanghai',
-    link: 'https://example.com/python-workshop',
+      'knowing and capable of conducting web crawler and data analysis and visualize them',
+    date: '2024-4-5',
+    location: '',
+    link: '',
   },
   {
-    name: 'AI Ethics Discussion',
+    name: 'personal qualitise',
     description:
-      'A group discussion about the ethical implications of AI development and its impact on society.',
-    date: '2024-03-01',
-    location: 'Shanghai',
-    link: 'https://example.com/ai-ethics',
+      'I used to be a member of the Propaganda and Education Department of the Commity Youth League committee at the unibersity level .',
+    date: '2022-09-01',
+    location: '',
+    link: '',
   },
   {
-    name: 'Code Review Session',
+    name: 'lifestyle',
     description:
-      'Helping students improve their coding skills through peer code review and best practices sharing.',
+      'I am always self desplined, finishing the half marathon for three times , and various interests and made a good amout of progress',
     date: '2024-03-15',
-    location: 'Shanghai',
+    location: 'IMU',
   },
 ]

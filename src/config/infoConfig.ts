@@ -13,8 +13,8 @@ export const githubUsername = 'derekhut'
 // about page
 export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
 export const aboutParagraphs = [
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020.",
-  'Currently I am working on a new course called AI Camp, an innovative course where high school students create real-world products and startups while exploring the frontiers of AI.',
+  "Hello,amigos. My name is Louis. I'm from Inner mogolia and a student who is always curious about new things and eager to achieve dreams and ethusiastic about future.Welcome to my page.",
+  'Currently I am working on learning python and web construction, as to improve my data analysis skills for offical need.',
   "I started this blog to share the insights I learn every day. Most blogs focus on the lastest infomation about programming and general computer science, recording my improvment in daily life while others share the life lessons I've learned.",
 ]
 
@@ -35,12 +35,12 @@ export const socialLinks: Array<SocialLinkType> = [
   {
     name: 'Tiktok',
     icon: 'tiktok',
-    href: 'https://www.tiktok.com/@harvard?lang=en',
+    href: '',
   },
   {
     name: 'Bilibili',
     icon: 'bilibili',
-    href: 'https://space.bilibili.com/349721082',
+    href: '',
   },
 ]
 
