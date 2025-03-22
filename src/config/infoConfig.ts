@@ -4,16 +4,16 @@ export * from './career'
 
 // personal info
 export const name = 'Louis'
-export const headline = 'A student studying in Inner Mogolia university'
+export const headline = 'A student studying in Inner Mongolia university'
 export const introduction =
-  "Hello,amigos. My name is Louis. I'm from Inner mogolia and a student who is always curious about new things and eager to achieve dreams and ethusiastic about future.Welcome to my page."
+  "Hello,amigos. My name is Louis. I'm from Inner mongolia and a student who is always curious about new things and eager to achieve dreams and ethusiastic about future.Welcome to my page."
 export const email = 'nicelouis0711@gmail.com'
 export const githubUsername = 'derekhut'
 
 // about page
 export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
 export const aboutParagraphs = [
-  "Hello,amigos. My name is Louis. I'm from Inner mogolia and a student who is always curious about new things and eager to achieve dreams and ethusiastic about future.Welcome to my page.",
+  "Hello,amigos. My name is Louis. I'm from Inner mongolia and a student who is always curious about new things and eager to achieve dreams and ethusiastic about future.Welcome to my page.",
   'Currently I am working on learning python and web construction, as to improve my data analysis skills for offical need.',
   "I started this blog to share the insights I learn every day. Most blogs focus on the lastest infomation about programming and general computer science, recording my improvment in daily life while others share the life lessons I've learned.",
 ]
